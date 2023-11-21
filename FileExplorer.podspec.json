@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "summary": "FileExplorer is a powerful iOS file browser with the possiblity to choose and remove files and/or directories",
   "homepage": "https://github.com/thegauravsavarn/FileExplorer",
-  "screenshots": "https://raw.github.com/thegauravsavarn/FileExplorer/master/Resources/Directories.gif",
+  "screenshots": "https://raw.github.com/thegauravsavarn/FileExplorer/main/Resources/Directories.gif",
   "license": {
     "type": "MIT",
     "file": "LICENCE.md"
